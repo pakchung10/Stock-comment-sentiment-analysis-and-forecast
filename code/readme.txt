@@ -1,0 +1,10 @@
+股票评论获取（爬虫）——get_comment.py
+股票数据获取——get_shares_data.py
+读取股评内容——csv_txt.py
+股评集成（语料库构建）——gather.py
+情感分析模型评分、情感分析——emotion.py
+作图——plot.py
+百度AI评分——test_for_comment(BAIDU).py
+SnowNLP评分——test_for_comment(snownlp).py
+积极语料库——pos.txt
+消极语料库——neg.txt

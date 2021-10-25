@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d455c4a-f4e7-4344-9922-a3ec178f48ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="codeofrich" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1py0Vb16qjjdE1C4sAmBezeZVya" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\codeofrich" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.testkdayline">
+    <configuration name="ARIMA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeofrich" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ARIMA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emotion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeofrich" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emotion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gather" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeofrich" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gather.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeofrich" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testkdayline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeofrich" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testkdayline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testkdayline" />
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.gather" />
+        <item itemvalue="Python.ARIMA" />
+        <item itemvalue="Python.emotion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d455c4a-f4e7-4344-9922-a3ec178f48ba" name="Default Changelist" comment="" />
+      <created>1616140046846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616140046846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="119" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616579541287">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="119" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1616579541287" />
+    <state x="209" y="156" key="FileChooserDialogImpl" timestamp="1620286865920">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="156" key="FileChooserDialogImpl/0.0.1536.834/260.-1080.1920.1050@0.0.1536.834" timestamp="1620286865920" />
+    <state x="209" y="156" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1620196668028" />
+    <state width="1515" height="260" key="GridCell.Tab.0.bottom" timestamp="1620089708079">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1174" height="199" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1619341423976" />
+    <state width="1176" height="202" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1617637481747" />
+    <state width="1170" height="260" key="GridCell.Tab.0.bottom/0.0.1536.834/260.-1080.1920.1050@0.0.1536.834" timestamp="1619681165852" />
+    <state width="1515" height="260" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1620089708079" />
+    <state width="1515" height="260" key="GridCell.Tab.0.center" timestamp="1620089708078">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1174" height="199" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1619341423975" />
+    <state width="1176" height="202" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1617637481747" />
+    <state width="1170" height="260" key="GridCell.Tab.0.center/0.0.1536.834/260.-1080.1920.1050@0.0.1536.834" timestamp="1619681165852" />
+    <state width="1515" height="260" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1620089708078" />
+    <state width="1515" height="260" key="GridCell.Tab.0.left" timestamp="1620089708078">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1174" height="199" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1619341423975" />
+    <state width="1176" height="202" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1617637481746" />
+    <state width="1170" height="260" key="GridCell.Tab.0.left/0.0.1536.834/260.-1080.1920.1050@0.0.1536.834" timestamp="1619681165852" />
+    <state width="1515" height="260" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1620089708078" />
+    <state width="1515" height="260" key="GridCell.Tab.0.right" timestamp="1620089708078">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1174" height="199" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1619341423976" />
+    <state width="1176" height="202" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1617637481747" />
+    <state width="1170" height="260" key="GridCell.Tab.0.right/0.0.1536.834/260.-1080.1920.1050@0.0.1536.834" timestamp="1619681165852" />
+    <state width="1515" height="260" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1620089708078" />
+    <state width="372" height="264" key="GridCell.Tab.1.bottom" timestamp="1616686423298">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="372" height="264" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616686423298" />
+    <state width="372" height="264" key="GridCell.Tab.1.center" timestamp="1616686423297">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="372" height="264" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1616686423297" />
+    <state width="372" height="264" key="GridCell.Tab.1.left" timestamp="1616686423297">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="372" height="264" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1616686423297" />
+    <state width="372" height="264" key="GridCell.Tab.1.right" timestamp="1616686423297">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="372" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1616686423297" />
+    <state x="467" y="119" key="SettingsEditor" timestamp="1619409740913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="467" y="119" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1619409740913" />
+    <state x="463" y="158" width="544" height="632" key="dock-window-1" timestamp="1617865023490">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-6" y="0" width="781" height="840" key="dock-window-1/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1617608280650" />
+    <state x="463" y="158" width="544" height="632" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1617865023490" />
+    <state x="762" y="0" width="781" height="840" key="dock-window-2" timestamp="1616686553433">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="762" y="0" width="781" height="840" key="dock-window-2/0.0.1536.834@0.0.1536.834" timestamp="1616686553433" />
+    <state x="-6" y="0" width="781" height="840" key="dock-window-3" timestamp="1616686553433">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-6" y="0" width="781" height="840" key="dock-window-3/0.0.1536.834@0.0.1536.834" timestamp="1616686553433" />
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1619450868386">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1619450868386" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plot.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
